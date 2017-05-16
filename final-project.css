@@ -20,7 +20,13 @@
   h1{
    text-align:center;
    font-size:45px;
+   font-family: fantasy;
   }
+ 
+ 
+ h3{
+  font-family: Arial;
+ }
  
  .navbar-custom {
  background-color: #FFCD8C; /*peach brownish background color nav bar*/ 
@@ -118,6 +124,10 @@
    
  }
  
+ /*@media (max-width:1199px){*/
+ /* navbar-collapse*/
+ /*}*/
+ 
  .jumbotron{
   margin:20px;
  }
@@ -125,3 +135,7 @@
  .item{
   margin: 20px
  }
+ 
+ /*background{*/
+ /* blue*/
+ /*}*/
